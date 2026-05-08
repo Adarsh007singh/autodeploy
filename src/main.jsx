@@ -10,8 +10,7 @@ function App() {
         <div className="badge">React + GitHub Actions + AWS EC2</div>
         <h1>Auto Deploy Ready Project</h1>
         <p>
-          Is project ko GitHub par push karte hi GitHub Actions automatically build karke
-          aapke AWS EC2 server par deploy kar dega.
+          As soon as you push this project to GitHub, GitHub Actions will automatically build and deploy it to your AWS EC2 server.
         </p>
 
         <div className="cards">
